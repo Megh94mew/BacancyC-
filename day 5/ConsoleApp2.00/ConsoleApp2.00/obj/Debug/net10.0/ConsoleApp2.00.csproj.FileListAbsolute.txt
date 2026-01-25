@@ -1,0 +1,4 @@
+C:\Users\Zeel\source\repos\ConsoleApp2.00\ConsoleApp2.00\obj\Debug\net10.0\ConsoleApp2.00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeel\source\repos\ConsoleApp2.00\ConsoleApp2.00\obj\Debug\net10.0\ConsoleApp2.00.AssemblyInfoInputs.cache
+C:\Users\Zeel\source\repos\ConsoleApp2.00\ConsoleApp2.00\obj\Debug\net10.0\ConsoleApp2.00.AssemblyInfo.cs
+C:\Users\Zeel\source\repos\ConsoleApp2.00\ConsoleApp2.00\obj\Debug\net10.0\ConsoleApp2.00.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\Zeel\source\repos\ConsoleApp5.00\ConsoleApp5.00\bin\Debug\net10.0\ConsoleApp5.00.exe
+C:\Users\Zeel\source\repos\ConsoleApp5.00\ConsoleApp5.00\bin\Debug\net10.0\ConsoleApp5.00.deps.json
+C:\Users\Zeel\source\repos\ConsoleApp5.00\ConsoleApp5.00\bin\Debug\net10.0\ConsoleApp5.00.runtimeconfig.json
+C:\Users\Zeel\source\repos\ConsoleApp5.00\ConsoleApp5.00\bin\Debug\net10.0\ConsoleApp5.00.dll
+C:\Users\Zeel\source\repos\ConsoleApp5.00\ConsoleApp5.00\bin\Debug\net10.0\ConsoleApp5.00.pdb
+C:\Users\Zeel\source\repos\ConsoleApp5.00\ConsoleApp5.00\obj\Debug\net10.0\ConsoleApp5.00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeel\source\repos\ConsoleApp5.00\ConsoleApp5.00\obj\Debug\net10.0\ConsoleApp5.00.AssemblyInfoInputs.cache
+C:\Users\Zeel\source\repos\ConsoleApp5.00\ConsoleApp5.00\obj\Debug\net10.0\ConsoleApp5.00.AssemblyInfo.cs
+C:\Users\Zeel\source\repos\ConsoleApp5.00\ConsoleApp5.00\obj\Debug\net10.0\ConsoleApp5.00.csproj.CoreCompileInputs.cache
+C:\Users\Zeel\source\repos\ConsoleApp5.00\ConsoleApp5.00\obj\Debug\net10.0\ConsoleApp5.00.dll
+C:\Users\Zeel\source\repos\ConsoleApp5.00\ConsoleApp5.00\obj\Debug\net10.0\refint\ConsoleApp5.00.dll
+C:\Users\Zeel\source\repos\ConsoleApp5.00\ConsoleApp5.00\obj\Debug\net10.0\ConsoleApp5.00.pdb
+C:\Users\Zeel\source\repos\ConsoleApp5.00\ConsoleApp5.00\obj\Debug\net10.0\ConsoleApp5.00.genruntimeconfig.cache
+C:\Users\Zeel\source\repos\ConsoleApp5.00\ConsoleApp5.00\obj\Debug\net10.0\ref\ConsoleApp5.00.dll
