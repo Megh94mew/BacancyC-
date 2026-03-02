@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/DTO/">
+    <File Path="Mapping.cs" />
+    <File Path="productcreate.cs" />
+    <File Path="productReadDto.cs" />
+    <File Path="productupdate.cs" />
+  </Folder>
+  <Folder Name="/Register Mapper/">
+    <File Path="Registermapper.cs" />
+  </Folder>
+  <Project Path="../../../../../../../../assignment day 1- 5/.NET assignmet/Productcatalog/Assignment/Assignment/Assignment.csproj" />
+</Solution>
