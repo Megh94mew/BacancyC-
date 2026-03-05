@@ -1,0 +1,21 @@
+<Solution>
+  <Folder Name="/DTO/">
+    <File Path="Event dto.cs" />
+    <File Path="Registerdto.cs" />
+  </Folder>
+  <Folder Name="/Entities/">
+    <File Path="DbContext.cs" />
+    <File Path="Event enety.cs" />
+    <File Path="Registration Entity.cs" />
+    <File Path="User Entity.cs" />
+  </Folder>
+  <Folder Name="/JWT authentication/">
+    <File Path="genrate jwt.cs" />
+    <File Path="program.cs" />
+  </Folder>
+  <Folder Name="/Middleware/">
+    <File Path="Exception middleware.cs" />
+    <File Path="logging middleware.cs" />
+  </Folder>
+  <Project Path="Event management system/Event management system.csproj" />
+</Solution>

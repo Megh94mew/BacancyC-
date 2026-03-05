@@ -1,0 +1,24 @@
+<Solution>
+  <Folder Name="/Controllers/">
+    <File Path="Usercontrol.cs" />
+  </Folder>
+  <Folder Name="/Data/">
+    <File Path="TmsDbContext.cs" />
+  </Folder>
+  <Folder Name="/DependencyInjection/">
+    <File Path="Dependencyinjectipon.cs" />
+  </Folder>
+  <Folder Name="/DTO/">
+    <File Path="TMS/Controllers/CreateUserDto.cs" />
+    <File Path="UserDto.cs" />
+  </Folder>
+  <Folder Name="/Models/">
+    <File Path="Role.cs" />
+    <File Path="User.cs" />
+  </Folder>
+  <Folder Name="/Repository/">
+    <File Path="Repositoryimplementation.cs" />
+    <File Path="Repositoryuser.cs" />
+  </Folder>
+  <Project Path="../../../../../../../../assignment day 1- 5/.NET assignmet/ticket management service/TMS/TMS/TMS.csproj" />
+</Solution>
